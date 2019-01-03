@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarqube.intern.engram.de" />
+          <token>dfcbdf9adfc8df9bdf9ddf9cdf93df9fdf9ddf9adf9bdf9ddf9edfc9df9adf93df9bdf93df98dfcfdf93df9ddfc8df9ddfccdf92df9ddfccdf9edf99df9ddfccdfccdfccdf9adf9bdf9adf93df93dfce</token>
+          <option name="name" value="sonarqube.intern.engram.de" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
