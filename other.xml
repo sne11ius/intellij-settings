@@ -1,0 +1,73 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Error handlingJava</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>Haml</id>
+          </State>
+          <State>
+            <id>JUnitJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>Manifest</id>
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>PortabilityJava</id>
+          </State>
+          <State>
+            <id>Probable bugsCSS</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsKotlin</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+          <State>
+            <id>Redundant constructsKotlin</id>
+          </State>
+          <State>
+            <id>Resource managementJava</id>
+          </State>
+          <State>
+            <id>UndefinedPHP</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="8.10.0" last-modified="1520369702000" />
+    </local-interpreter>
+  </component>
+</application>

@@ -1,0 +1,64 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding" addBOMForNewFiles="with NO BOM" />
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/src/alexa-skill-sparkasse/multi-skill-generator" value="PREVIEW" />
+            <entry key="$USER_HOME$/src/callcenter-messaging/mailgun-response-receiver" value="PREVIEW" />
+            <entry key="$USER_HOME$/src/mittmach-bot" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="NodePackageJsonFileManager">
+        <packageJsonPaths />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="Application" factoryName="Application">
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="TestNG" factoryName="TestNG">
+          <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+          <properties />
+          <listeners />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.7</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
